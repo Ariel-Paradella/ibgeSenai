@@ -21,7 +21,6 @@ Foto | Nome | GitHub |  E-mail
 
 **Arquitetura**
 
-![arquitetura](./doc/arquitetura.png)
 
 **Comandos**
 
