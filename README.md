@@ -10,9 +10,9 @@ Esse projeto faz parte da atividade avaliativa da disciplina de Desenvolvimento 
 
 **Autores**
 
-Foto | Nome | GitHub | Likedin | E-mail
----- | ---- | ------ | ------- | ------
-<img src="./doc/levi.jpg" width="100px">  | Rafael Levi Batista Costa | [Rafael Levi](https://github.com/rafaellevissa) | [Linkedin](https://www.linkedin.com/in/rafaellevissa/) | rafaellevissa@gmail.com
+Foto | Nome | GitHub |  E-mail
+---- | ---- | ------ |  ------
+  | Ariel Paradella dos Santos | [Ariel Paradella]() | ari-paradella@hotmail.com
 
 **Tecnologias**
 
