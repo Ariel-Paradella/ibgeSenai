@@ -12,7 +12,7 @@ Esse projeto faz parte da atividade avaliativa da disciplina de Desenvolvimento 
 
 Foto | Nome | GitHub |  E-mail
 ---- | ---- | ------ |  ------
-  | Ariel Paradella dos Santos | [Ariel Paradella]() | ari-paradella@hotmail.com
+  | Ariel Paradella dos Santos | [Ariel Paradella](https://github.com/Ariel-Paradella) | ari-paradella@hotmail.com
 
 **Tecnologias**
 
